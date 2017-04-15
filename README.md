@@ -12,4 +12,5 @@ Decide on 360 video recommendations:
 Decide on how to license work  
   - GPL? http://law.stackexchange.com/questions/6455/use-an-image-under-gnu-gpl-in-a-commercial-application  
   
-  
+How to build on existing work?  
+  - https://www.reddit.com/r/virtualreality/comments/65ctm9/vr_biking_in_the_mountains_with_vr_rider_early/
