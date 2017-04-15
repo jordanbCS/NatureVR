@@ -6,8 +6,8 @@ Making the natural treasures of our world accessible to everyone
 
 Designate an appropiate repository for large binary files.  
 
-Decide on a set of 360 video recommendations:  
-http://www.roadtovr.com/choosing-the-right-360-vr-camera/
+Decide on 360 video recommendations:  
+  - http://www.lg.com/us/mobile-accessories/lg-LGR105.AVRZTS-360-cam
 
 Decide on how to license work  
   - GPL? http://law.stackexchange.com/questions/6455/use-an-image-under-gnu-gpl-in-a-commercial-application  
