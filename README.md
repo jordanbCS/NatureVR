@@ -14,3 +14,6 @@ Decide on how to license work
   
 How to build on existing work?  
   - https://www.reddit.com/r/virtualreality/comments/65ctm9/vr_biking_in_the_mountains_with_vr_rider_early/
+
+  - http://variety.com/2017/digital/news/adobe-6dof-vr-video-algorithms-1202394491/
+    - http://zhilichen.com/projects/sixdofvr/vr360.pdf
