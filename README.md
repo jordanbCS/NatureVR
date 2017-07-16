@@ -17,3 +17,7 @@ How to build on existing work?
 
   - http://variety.com/2017/digital/news/adobe-6dof-vr-video-algorithms-1202394491/
     - http://zhilichen.com/projects/sixdofvr/vr360.pdf
+
+  - https://research.googleblog.com/2017/07/using-deep-learning-to-create.html 
+  
+  
