@@ -7,6 +7,7 @@ Making the natural treasures of our world accessible to everyone
 Designate an appropiate repository for large binary files.  
 
 Decide on 360 video recommendations:  
+  - https://vuze.camera/  
   - http://www.lg.com/us/mobile-accessories/lg-LGR105.AVRZTS-360-cam
 
 Decide on how to license work  
