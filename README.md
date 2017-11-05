@@ -1,6 +1,20 @@
 # Nature VR
 Making the natural treasures of our world accessible to everyone
 
+## Technical  
+
+ ### Rquirements  
+ 
+ - Blender
+ - Unity
+ - https://www.strava.com
+ 
+ ### Subtrees
+ 
+ - https://github.com/SyntonicApps/unity-vrtk-examples - https://www.youtube.com/watch?v=aJhPm5h1pl4
+
+ - https://github.com/llSourcell/How-to-Generate-Art-Demo  
+    - https://medium.com/towards-data-science/neural-networks-and-the-future-of-3d-procedural-content-generation-a2132487d44a - "Knowing that, I went over to http://terrain.party, a website where you can download elevation data from the Earth."
 
 ## T0 DO
 
