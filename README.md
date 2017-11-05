@@ -1,5 +1,9 @@
-# Nature VR
+# Nature VR  
+
 Making the natural treasures of our world accessible to everyone
+
+## Motivation  
+  - https://psmag.com/environment/living-near-a-forest-is-linked-to-better-brain-health?source=TDB&via=FB_Page
 
 ## Technical  
 
