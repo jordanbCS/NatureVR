@@ -19,6 +19,11 @@ Making the natural treasures of our world accessible to everyone
 
  - https://github.com/llSourcell/How-to-Generate-Art-Demo  
     - https://medium.com/towards-data-science/neural-networks-and-the-future-of-3d-procedural-content-generation-a2132487d44a - "Knowing that, I went over to http://terrain.party, a website where you can download elevation data from the Earth."
+    
+ - https://github.com/jiajunwu/3dinn  - "Wu, J., Xue, T., Lim, J. J., Tian, Y., Tenenbaum, J. B., Torralba, A., & Freeman, W. T. (2016). Single image 3D interpreter network. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 9910 LNCS). http://doi.org/10.1007/978-3-319-46466-4_22"
+    - https://github.com/torch/torch7
+ 
+ 
 
 ## T0 DO
 
