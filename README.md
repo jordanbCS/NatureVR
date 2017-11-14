@@ -1,13 +1,13 @@
 # Nature VR  
 
-Making the natural treasures of our world accessible to everyone
+Making the natural treasures of our world accessible to everyone. The project will take 2d images of natural scenes, and attempt to texture 3d Unity environments, using a complex of machine learning approaches for interpolating texture and depth from static images.
 
 ## Motivation  
   - https://psmag.com/environment/living-near-a-forest-is-linked-to-better-brain-health?source=TDB&via=FB_Page
 
 ## Technical  
 
- ### Rquirements  
+ ### Requirements  
  
  - Blender
  - Unity
