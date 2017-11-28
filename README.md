@@ -25,7 +25,10 @@ Making the natural treasures of our world accessible to everyone. The project wi
  
 ### Related  
 
- - https://www.youtube.com/watch?v=NEscK5RCtlo
+ - Eric Guérin, Julie Digne, Eric Galin, Adrien Peytavie, Christian Wolf, et al.. Interactive Example- Based Terrain Authoring with Conditional Generative Adversarial Networks. Transactions on Graph- ics (Proceedings of Siggraph Asia 2017), ACM, 2017, 36, pp.228 - 228. <10.1145/3130800.3130804>. <hal-01583706v3>  
+    <img src="./Reference_material/Terrain_generation_network_Guerin2017_NEscK5RCtlo.png?raw=true" width="500">
+
+
 
 ## T0 DO
 
