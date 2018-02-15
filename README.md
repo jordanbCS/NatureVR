@@ -30,8 +30,6 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 
 
-## T0 DO
-
 ## Todo
 
 * [x] Conduct a test of texture application in Unity: https://www.youtube.com/watch?v=kyHGAwoJIWQ  
