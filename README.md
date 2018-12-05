@@ -9,11 +9,9 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
  ### Requirements  
  
- - Blender
- - Unity
- - https://www.strava.com
- 
- ### Subtrees
+
+ ### Subtrees  
+ - https://www.reddit.com/r/virtualreality/comments/a340lk/research_at_nvidia_the_first_interactive_ai/  
  
  - https://github.com/SyntonicApps/unity-vrtk-examples - https://www.youtube.com/watch?v=aJhPm5h1pl4
 
