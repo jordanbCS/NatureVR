@@ -7,6 +7,7 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 
 ## Related  
+ - https://www.reddit.com/r/MachineLearning/comments/fc9l4p/n_turn_2d_photos_into_3d_using_convolutional/  
  - https://github.com/NVIDIAGameWorks/kaolin/  
  - https://smaerdlatigid.github.io/3D-Photo-Viewer/  
  - https://www.reddit.com/r/replications/comments/e17lr4/turning_2d_into_3d_with_ai_depth_map/  
@@ -26,22 +27,9 @@ Making the natural treasures of our world accessible to everyone. The project wi
     
  - https://github.com/jiajunwu/3dinn  - "Wu, J., Xue, T., Lim, J. J., Tian, Y., Tenenbaum, J. B., Torralba, A., & Freeman, W. T. (2016). Single image 3D interpreter network. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 9910 LNCS). http://doi.org/10.1007/978-3-319-46466-4_22"
   
-
-
-## Todo
-
-* [x] Conduct a test of texture application in Unity: https://www.youtube.com/watch?v=kyHGAwoJIWQ  
-* [ ] Add the Unity project as a subtree  
-* [ ] Designate an appropiate repository for large binary files.  
-* [ ] Decide on 360 video recommendations:  
-  - https://vuze.camera/  
-  - http://www.lg.com/us/mobile-accessories/lg-LGR105.AVRZTS-360-cam  
-* [x] Decide on how to license work  
-  - GPL? http://law.stackexchange.com/questions/6455/use-an-image-under-gnu-gpl-in-a-commercial-application  
-* [ ] How to build on existing work?  
-  - https://www.reddit.com/r/virtualreality/comments/65ctm9/vr_biking_in_the_mountains_with_vr_rider_early/  
-  - http://variety.com/2017/digital/news/adobe-6dof-vr-video-algorithms-1202394491/  
-    - http://zhilichen.com/projects/sixdofvr/vr360.pdf  
-  - https://research.googleblog.com/2017/07/using-deep-learning-to-create.html 
+- https://www.reddit.com/r/virtualreality/comments/65ctm9/vr_biking_in_the_mountains_with_vr_rider_early/  
+- http://variety.com/2017/digital/news/adobe-6dof-vr-video-algorithms-1202394491/  
+  - http://zhilichen.com/projects/sixdofvr/vr360.pdf  
+- https://research.googleblog.com/2017/07/using-deep-learning-to-create.html 
   
   
