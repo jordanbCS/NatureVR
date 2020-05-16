@@ -7,6 +7,7 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 
 ## Related  
+ - https://github.com/cyrildiagne/instagram-3d-photo  
  - https://www.reddit.com/r/MediaSynthesis/comments/fq6zyx/front2back_ai_reconstructs_3d_shapes_from_2d/  
  - https://www.reddit.com/r/MachineLearning/comments/fc9l4p/n_turn_2d_photos_into_3d_using_convolutional/  
  - https://github.com/NVIDIAGameWorks/kaolin/  
