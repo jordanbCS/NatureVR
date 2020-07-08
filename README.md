@@ -6,6 +6,19 @@ Making the natural treasures of our world accessible to everyone. The project wi
   - https://psmag.com/environment/living-near-a-forest-is-linked-to-better-brain-health?source=TDB&via=FB_Page
 
 
+## 2d -> 3d demo  
+
+"AI Generates 3D high-resolution reconstructions of people from 2D images | Introduction to PIFuHD"  
+https://www.youtube.com/watch?v=ajWtdm05-6g  
+
+"PIFuHD: High-Resolution 3D Human Digitization (CVPR2020 Oral, 5min Presentation)"  
+https://www.youtube.com/watch?v=uEDqCxvF5yc  
+
+https://github.com/facebookresearch/pifuhd  
+
+https://colab.research.google.com/drive/1cPntk-PyiXnxiUfsfw5teV8UrdPoi0e4?usp=sharing  
+
+
 ## Related  
  - https://github.com/cyrildiagne/instagram-3d-photo  
  - https://www.reddit.com/r/MediaSynthesis/comments/fq6zyx/front2back_ai_reconstructs_3d_shapes_from_2d/  
