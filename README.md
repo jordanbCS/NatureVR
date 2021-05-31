@@ -5,8 +5,11 @@ Making the natural treasures of our world accessible to everyone. The project wi
 ## Motivation  
   - https://psmag.com/environment/living-near-a-forest-is-linked-to-better-brain-health?source=TDB&via=FB_Page
 
+## Terrain generation models  
 
-## 2d -> 3d demo  
+ - https://github.com/universome/alis  
+
+## 2d --> 3d models   
 
 "AI Generates 3D high-resolution reconstructions of people from 2D images | Introduction to PIFuHD"  
 https://www.youtube.com/watch?v=ajWtdm05-6g  
