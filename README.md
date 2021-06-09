@@ -22,6 +22,12 @@ https://github.com/facebookresearch/pifuhd
 https://colab.research.google.com/drive/1cPntk-PyiXnxiUfsfw5teV8UrdPoi0e4?usp=sharing  
 
 
+## Existing Nature VR applications  
+
+ - "Get Lost In Nature With Luke" https://www.oculus.com/experiences/rift/3507999942601704/ - https://www.reddit.com/r/virtualreality/comments/nubeqv/get_lost_in_nature_with_luke_how_is_this_level_of/ - https://www.youtube.com/watch?v=j4RX_TnJH0k  
+ - "Nature Treks VR" - https://www.oculus.com/experiences/quest/2616537008386430  
+
+
 ## Related  
  - https://github.com/cyrildiagne/instagram-3d-photo  
  - https://www.reddit.com/r/MediaSynthesis/comments/fq6zyx/front2back_ai_reconstructs_3d_shapes_from_2d/  
