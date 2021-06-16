@@ -29,6 +29,7 @@ https://colab.research.google.com/drive/1cPntk-PyiXnxiUfsfw5teV8UrdPoi0e4?usp=sh
 
 
 ## Related  
+ - https://www.reddit.com/r/InternetIsBeautiful/comments/nuc3ef/this_website_developed_by_nvidia_lets_you_draw/h0xbuhp/  
  - https://github.com/cyrildiagne/instagram-3d-photo  
  - https://www.reddit.com/r/MediaSynthesis/comments/fq6zyx/front2back_ai_reconstructs_3d_shapes_from_2d/  
  - https://www.reddit.com/r/MachineLearning/comments/fc9l4p/n_turn_2d_photos_into_3d_using_convolutional/  
