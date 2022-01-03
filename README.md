@@ -11,6 +11,8 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 ## 2d --> 3d models   
 
+ - https://www.reddit.com/r/MachineLearning/comments/ruaew1/r_learning_3d_representations_from_2d_images/  
+
  - https://www.reddit.com/r/MachineLearning/comments/pskwhy/r_3d_annotation_of_arbitrary_objects_in_the_wild/  
 
  - "AI Generates 3D high-resolution reconstructions of people from 2D images | Introduction to PIFuHD" https://www.youtube.com/watch?v=ajWtdm05-6g  
