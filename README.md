@@ -11,6 +11,8 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 ## 2d --> 3d models   
 
+ - NVIDIA's New AI: Enhance! - https://www.youtube.com/watch?v=e0yEOw6Zews  
+
  - "AI can turn a collection of 2D images into an explorable 3D world" - https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/ - https://www.youtube.com/watch?v=BBmcsyB7aDw    
 
  - https://www.reddit.com/r/MachineLearning/comments/ruaew1/r_learning_3d_representations_from_2d_images/  
