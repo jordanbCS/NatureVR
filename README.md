@@ -11,6 +11,8 @@ Making the natural treasures of our world accessible to everyone. The project wi
 
 ## 2d --> 3d models   
 
+ - Google PHORHUM - "...Observing that 3D supervision alone is not sufficient for high fidelity color reconstruction, we introduce patch-based rendering losses that enable reliable color reconstruction on visible parts of the human, and detailed and plausible color estimation for the non-visible parts..." - https://phorhum.github.io/  
+
  - NVIDIA's New AI: Enhance! - https://www.youtube.com/watch?v=e0yEOw6Zews  
 
  - "AI can turn a collection of 2D images into an explorable 3D world" - https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/ - https://www.youtube.com/watch?v=BBmcsyB7aDw    
